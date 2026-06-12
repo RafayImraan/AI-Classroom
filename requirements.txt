@@ -4,6 +4,7 @@ gtts==2.5.3
 PyPDF2==3.0.1
 python-dotenv==1.0.1
 pydub==0.25.1
+setuptools<70
 openai-whisper==20240930
 faiss-cpu==1.9.0
 numpy==1.26.4
